@@ -2,7 +2,7 @@
 
 First define your HTML tag with the class `RGB`:
 ```HTML
-<div class="RGB">YOUR_TEXT</div
+<div class="RGB">YOUR_TEXT</div>
 ```
 Then chose the declaration for the element with the class `RGB` to your CSS:
 ```CSS
