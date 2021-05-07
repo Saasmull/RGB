@@ -25,4 +25,4 @@ At the last add the animation to your CSS like this:
 }
 ```
 
-[Here](https://saasmull.github.io/info/repo/rgb.html) can you view this example.
+[Here](https://saasmull.github.io/info/repo/rgb/example.html) can you view this example.
